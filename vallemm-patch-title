@@ -1,0 +1,1 @@
+plot(mytable$Profit, mytable$Number.of.Defective.Items, main="Profit vs Defective")
